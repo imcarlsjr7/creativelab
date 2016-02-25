@@ -233,6 +233,9 @@ header .navbar-header .navbar-brand {
 }
 .wdl-contact {
   background: url("../img/main-bg-1.gif") scroll center -3235px no-repeat;
+  /* all */
+  /* firefox 19+ */
+  /* ie */
 }
 .wdl-contact .contact {
   padding-top: 210px;
@@ -256,7 +259,7 @@ header .navbar-header .navbar-brand {
   border-radius: 8px;
   height: 45px;
   padding-left: 20px;
-  background-color: #1c1912;
+  background-color: black;
   border-color: #1c1912;
   font-size: 16px;
   font-weight: 200;
@@ -266,6 +269,18 @@ header .navbar-header .navbar-brand {
 .wdl-contact textarea:focus {
   box-shadow: none;
   border: 1px solid #b7ac8f;
+}
+.wdl-contact ::-webkit-input-placeholder {
+  color: #f00;
+}
+.wdl-contact ::-moz-placeholder {
+  color: #f00;
+}
+.wdl-contact :-ms-input-placeholder {
+  color: #f00;
+}
+.wdl-contact input:-moz-placeholder {
+  color: #f00;
 }
 .wdl-contact .btn-success {
   -webkit-border-radius: 6px;
@@ -335,17 +350,17 @@ button.close {
 .form-control {
   color: #b7ac8f;
 }
-.form-control:::-webkit-input-placeholder {
-  color: #363227;
+.form-control ::-webkit-input-placeholder {
+  color: #000000;
 }
-.form-control::-moz-placeholder {
-  color: #363227;
+.form-control :-moz-placeholder {
+  color: #000000;
 }
-.form-control:::-moz-placeholder {
-  color: #363227;
+.form-control ::-moz-placeholder {
+  color: #000000;
 }
-.form-control::-ms-input-placeholder {
-  color: #363227;
+.form-control :-ms-input-placeholder {
+  color: #000000;
 }
 .text-danger {
   color: #f7be53 !important;
@@ -604,5 +619,10 @@ footer .footer-sub div:last-child > p {
   }
   .wdl-skills .skills {
     margin-left: 40px;
+  }
+}
+@media (min-width: 1201px) and (max-width: 2400px) {
+  header {
+    background: url("../img/header-bg-lg.jpg") top center no-repeat;
   }
 }
