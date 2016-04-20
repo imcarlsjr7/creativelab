@@ -270,7 +270,7 @@ header {
 		.wdl-round-2;
 		height: 45px;
 		padding-left: 20px;
-		background-color: @wdl-color-8;
+		background-color: black;
 		border-color: @wdl-color-8;
 		font-size: 16px;
 	    font-weight: 200;
@@ -280,6 +280,11 @@ header {
 			border: 1px solid @wdl-color-7;
 		}
 	}
+/* all */
+::-webkit-input-placeholder { color:#f00; }
+::-moz-placeholder { color:#f00; } /* firefox 19+ */
+:-ms-input-placeholder { color:#f00; } /* ie */
+input:-moz-placeholder { color:#f00; }
 	.btn-success {
 		.wdl-round-1;
 		.wdl-shadow-2;
@@ -343,12 +348,11 @@ button.close {
 
 //form
 .form-control {
-	&:::-webkit-input-placeholder { color: @wdl-color-11; }
-	&::-moz-placeholder           { color: @wdl-color-11; }
-	&:::-moz-placeholder          { color: @wdl-color-11; }
-	&::-ms-input-placeholder      { color: @wdl-color-11; }
+	::-webkit-input-placeholder { color: #000 }
+	:-moz-placeholder           { color: #000 }
+	::-moz-placeholder          { color: #000 }
+	:-ms-input-placeholder      { color: #000 }
 	color: @wdl-color-7;
-
 }
 .text-danger {
 	color: #f7be53 !important;
@@ -655,4 +659,16 @@ footer {
 			margin-left: 40px;
 		}
 	}
+}
+//xlg
+@media (min-width: 1201px) and (max-width: 2400px) {
+    header {
+        background: url("../img/header-bg-lg.jpg") top center no-repeat;
+    }
+}
+*:focus, button:focus, a:focus {
+    outline: none!important;
+    outline-style:none!important;
+    box-shadow:none!important;
+    border-color:transparent!important;
 }
