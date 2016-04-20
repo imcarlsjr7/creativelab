@@ -9,6 +9,12 @@
     <!-- LESS compiled CSS minified -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
 
+    <style>
+        .modal-dialog { max-width: 1000px!important;}
+        .modal-header { min-height: 0!important; height: 0!important; padding: 0!important}
+        .modal-loading { text-align: center!important; font-size: 20px!important; padding: 50px 0;}
+    </style>
+
     <!-- Google Fonts -->
     <link href='http://fonts.googleapis.com/css?family=Oswald:400,700,300' rel='stylesheet' type='text/css'>
 
@@ -65,13 +71,22 @@
               <div class="featured-experiment web-design-experiment">
                 <h1>Web UI/UX Design Experiment</h1>
                 <ul>
-                  <li><a data-toggle="modal" data-target="#myModal-web-71" href="#"><span></span><img class="img-responsive" src="portfolio/thumbs/web/img_thumbExperiment71.png"></a></li>
+
+                  <li><a data-toggle="lightbox" href="portfolio/screenshots/web/img_screenshot71.png"><span></span><img class="img-responsive" src="portfolio/thumbs/web/img_thumbExperiment71.png"></a></li>
+                  <li><a data-toggle="lightbox" href="portfolio/screenshots/web/img_screenshot72.png"><span></span><img class="img-responsive" src="portfolio/thumbs/web/img_thumbExperiment72.png"></a></li>
+                  <li><a data-toggle="lightbox" href="portfolio/screenshots/web/img_screenshot66.png"><span></span><img class="img-responsive" src="portfolio/thumbs/web/img_thumbExperiment66.png"></a></li>
+
+                  <li><a data-toggle="lightbox" href="portfolio/screenshots/web/img_screenshot73.png"><span></span><img class="img-responsive" src="portfolio/thumbs/web/img_thumbExperiment73.png"></a></li>
+                  <li><a data-toggle="lightbox" href="portfolio/screenshots/web/img_screenshot74.png"><span></span><img class="img-responsive" src="portfolio/thumbs/web/img_thumbExperiment74.png"></a></li>
+                  <li><a data-toggle="lightbox" href="portfolio/screenshots/web/img_screenshot75.png"><span></span><img class="img-responsive" src="portfolio/thumbs/web/img_thumbExperiment75.png"></a></li>
+
+                  <!--<li><a data-toggle="modal" data-target="#myModal-web-71" href="#"><span></span><img class="img-responsive" src="portfolio/thumbs/web/img_thumbExperiment71.png"></a></li>
                   <li><a data-toggle="modal" data-target="#myModal-web-72" href="#"><span></span><img class="img-responsive" src="portfolio/thumbs/web/img_thumbExperiment72.png"></a></li>
                   <li><a data-toggle="modal" data-target="#myModal-web-66" href="#"><span></span><img class="img-responsive" src="portfolio/thumbs/web/img_thumbExperiment66.png"></a></li>
 
                   <li><a data-toggle="modal" data-target="#myModal-web-73" href="#"><span></span><img class="img-responsive" src="portfolio/thumbs/web/img_thumbExperiment73.png"></a></li>
                   <li><a data-toggle="modal" data-target="#myModal-web-74" href="#"><span></span><img class="img-responsive" src="portfolio/thumbs/web/img_thumbExperiment74.png"></a></li>
-                  <li><a data-toggle="modal" data-target="#myModal-web-75" href="#"><span></span><img class="img-responsive" src="portfolio/thumbs/web/img_thumbExperiment75.png"></a></li>
+                  <li><a data-toggle="modal" data-target="#myModal-web-75" href="#"><span></span><img class="img-responsive" src="portfolio/thumbs/web/img_thumbExperiment75.png"></a></li>-->
 
                   <li><a data-toggle="modal" data-target="#myModal-web-76" href="#"><span></span><img class="img-responsive" src="portfolio/thumbs/web/img_thumbExperiment76.png"></a></li>
                   <li><a data-toggle="modal" data-target="#myModal-web-78" href="#"><span></span><img class="img-responsive" src="portfolio/thumbs/web/img_thumbExperiment78.png"></a></li>
@@ -1789,6 +1804,63 @@
 
         <!-- Scroll to top -->
         <script type="text/javascript" src="js/scrollToTop.js"></script>
+
+        <!-- Lightbox -->
+        <script src="js/ekko-lightbox.min.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function ($) {
+
+				// delegate calls to data-toggle="lightbox"
+				$(document).delegate('*[data-toggle="lightbox"]:not([data-gallery="navigateTo"])', 'click', function(event) {
+					event.preventDefault();
+					return $(this).ekkoLightbox({
+						onShown: function() {
+							if (window.console) {
+								return console.log('onShown event fired');
+							}
+						},
+						onContentLoaded: function() {
+							if (window.console) {
+								return console.log('onContentLoaded event fired');
+							}
+						},
+						onNavigate: function(direction, itemIndex) {
+							if (window.console) {
+								return console.log('Navigating '+direction+'. Current item: '+itemIndex);
+							}
+						}
+					});
+				});
+
+				//Programatically call
+				$('#open-image').click(function (e) {
+					e.preventDefault();
+					$(this).ekkoLightbox();
+				});
+				$('#open-youtube').click(function (e) {
+					e.preventDefault();
+					$(this).ekkoLightbox();
+				});
+
+				$(document).delegate('*[data-gallery="navigateTo"]', 'click', function(event) {
+					event.preventDefault();
+					return $(this).ekkoLightbox({
+						onShown: function() {
+							var lb = this;
+							$(lb.modal_content).on('click', '.modal-footer a#jumpit', function(e) {
+								e.preventDefault();
+								lb.navigateTo(2);
+							});
+							$(lb.modal_content).on('click', '.modal-footer a#closeit', function(e) {
+								e.preventDefault();
+								lb.close();
+							});
+						}
+					});
+				});
+
+			});
+		</script>
 
     </body>
 
