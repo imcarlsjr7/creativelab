@@ -1,0 +1,1517 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"important"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"pd",
+				"padding-left"
+			],
+			[
+				"first",
+				"first-child	 pseudo selector"
+			],
+			[
+				"form",
+				"form-group	 bootstrap.css"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"li",
+				"line-break"
+			],
+			[
+				"hid",
+				"hidden-sm	 bootstrap.css"
+			],
+			[
+				"ef-cen",
+				"ef-center-box	 ef-uilibrary.less"
+			],
+			[
+				"ef-center-box",
+				"ef-center-inside-box	 ef-uilibrary.less"
+			],
+			[
+				"ef-ce",
+				"ef-center-box	 ef-uilibrary.less"
+			],
+			[
+				"ef-marg",
+				"ef-margin-top-25	 bootstrap.css"
+			],
+			[
+				"im",
+				"img-responsive	 bootstrap.css"
+			],
+			[
+				"ef-mar",
+				"ef-margin-top-bot-15	 ef-uilibrary.less"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"wi",
+				"width-1	 ef-uilibrary.less"
+			],
+			[
+				"ef-pad",
+				"ef-padding-top-15	 bootstrap.css"
+			],
+			[
+				"text-c",
+				"text-center	 bootstrap.css"
+			],
+			[
+				"col",
+				"col-md-8	 bootstrap.css"
+			],
+			[
+				"ef-col",
+				"ef-color-7	 ef-variables.less"
+			],
+			[
+				"col-off",
+				"col-xs-offset-3	 bootstrap.css"
+			],
+			[
+				"input-xs",
+				"input-xs-2	 ef-uilibrary.less"
+			],
+			[
+				"pu",
+				"pull-left	 bootstrap.css"
+			],
+			[
+				"bold",
+				"fa-bold	 bootstrap.css"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"gray",
+				"gray-light	 variables.less"
+			],
+			[
+				"calibr",
+				"Calibri-ef"
+			],
+			[
+				"ef-no",
+				"ef-no-padding	 bootstrap.css"
+			],
+			[
+				"ef-center",
+				"ef-center-box	 bootstrap.css"
+			],
+			[
+				"hi",
+				"hidden-xs	 bootstrap.css"
+			],
+			[
+				"hide",
+				"hidden-sm	 bootstrap.css"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"col-sm",
+				"col-sm-1	 bootstrap.css"
+			],
+			[
+				"la",
+				"label	 element"
+			],
+			[
+				"BK",
+				"background-color"
+			],
+			[
+				"ef-c",
+				"ef-color-5	 ef-variables.less"
+			],
+			[
+				"col-md",
+				"col-md-4	 bootstrap.css"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"flef",
+				"ef-fleft	 bootstrap.css"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"ef-co",
+				"ef-color-7	 ef-variables.less"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"bo",
+				"border-top"
+			],
+			[
+				"ef",
+				"ef-color-7	 ef-variables.less"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"ef-no-mar",
+				"ef-no-margin-all	 ef-uilibrary.less"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"ef-car",
+				"ef-carousel-arrow	 ef-uilibrary.less"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"ef-color",
+				"ef-color-12	 ef-variables.less"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"ef-fon",
+				"ef-font-size-20"
+			],
+			[
+				"pda",
+				"padding-top"
+			],
+			[
+				"tex-",
+				"text-align"
+			],
+			[
+				"ef-box",
+				"ef-box-heading-2	 ef-uilibrary.less"
+			],
+			[
+				"ef-sta",
+				"ef-startup-listing	 ef-uilibrary.less"
+			],
+			[
+				"navbar",
+				"navbar-nav	 ef-uilibrary.less"
+			],
+			[
+				"PAD",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-2	 ef-uilibrary.less"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"ef-star",
+				"ef-startup-listing"
+			],
+			[
+				"ef-padd",
+				"ef-padding-10"
+			],
+			[
+				"ef-colo",
+				"ef-color-14"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"center",
+				"center-block"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"border-rig",
+				"border-right-width"
+			],
+			[
+				"bor",
+				"border-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Applications/MAMP/htdocs/eastfounder4/eastfunding/css/responsive.css",
+			"settings":
+			{
+				"buffer_size": 2701,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/eastfounder4/eastfunding/css/styles.css",
+			"settings":
+			{
+				"buffer_size": 143157,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 1406 files for \"ul_768\"\n\n/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/fundraising/featured_fundraising_view.php:\n  145  	{\n  146  		//$(\".div_768\").css(\"width\",\"500px\");\n  147: 		//$(\".ul_768\").css(\"display\",\"inherit\");\n  148  		//$(\".li_768\").css(\"margin\",\"15 0 0 0\");\n  149: 		$(\".ul_768 li:nth-child(5)\").css(\"border-right\",\"none\");\n  150: 		$(\".ul_768 li:last-child\").css(\"width\",\"90%\");\n  151  		$(\".how-it-work\").css(\"width\",\"22%\");\n  152  	}\n  ...\n  169  			// $(\".li_768\").css(\"display\",\"inline\");\n  170  			// $(\".li_768\").css(\"padding\",\"20px 5px 17px 0\");			\n  171: 			// $(\".ul_768\").css(\"margin-top\",\"15px\");\n  172: 			// $(\".ul_768\").css(\"padding-bottom\",\"15px\");\n  173  			// $(\".div_768\").css(\"width\",\"auto\");\n  174  			// $(\".span_768\").css(\"width\",\"35%\");\n  ...\n  234  	<div class=\"main_menu_div completeness\">\n  235  		<div class=\"div_768\" style=\"width:100%;display:flex;postion:relative;background: #e1e0f3!important;\">\n  236: 			<ul id=\"logged_in\" class=\"list-inline ul_768\">\n  237  				<li class=\"li_768\"><a href=\"profile-page?activity=1\">My Account</a></li>\n  238  				<li class=\"li_768\">Follow <span><?php echo $following; ?></span></li>\n\n/Applications/MAMP/htdocs/eastfounder4/eastfunding/css/styles.css:\n 3029  }\n 3030  \n 3031: .ul_768 {\n 3032    width: 100%;\n 3033  }\n\n7 matches across 2 files\n\n\nSearching 1406 files for \"startup-menu\"\n\n/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/corporate/corporate_display_view.php:\n   35  \n   36  						<div class=\"menu_background\" style=\"border: 1px solid #F9F9FA; border-top: 0px; border-bottom: 0\">\n   37: 							<ul class=\"list-inline pull-left startup-menu\" >\n   38: 								<li><a id=\"corporate_overview\" onclick=\"onclick_change_display($('#corporate_overview'),'#corporate_display_content','.startup-menu li a','.col-md-9.first');\" class=\"active\">OVERVIEW</a></li>\n   39: 								<li><a onclick=\"onclick_change_display($('#corporate_activity'),'#corporate_div_container','.startup-menu li a','.col-md-9.first');\" id=\"corporate_activity\">ACTIVITY</a></li>\n   40: <!--								<li><a id=\"corporate_followers\" onclick=\"onclick_change_display($('#corporate_followers'),'#follower_div_container','.startup-menu li a','.col-md-9.first');\">FOLLOWERS &nbsp;<strong class=\"follower_count_box\">--><?php //echo $followers?><!--</strong></a></li>-->\n   41  <!--                                <li><a id=\"entity_followers\" \">FOLLOWERS &nbsp;<strong class=\"follower_count_box\">--><?php //echo $followers?><!--</strong></a></li>-->\n   42                                  <li><a id=\"entity_followers\" data-value=\"FOLLOWERS\" data-company-id=\"<?=issetor($company['company_id'])?>\">FOLLOWERS &nbsp;<span class=\"followers-box\"><?php echo $followers?$followers:0; ?></span></a></li>\n\n/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/incubator_accelerator/incubator_management_view.php:\n  347                  <div style=\"padding:0\" class=\"row\">\n  348                      <div class=\"col-md-12 clearfix\" style=\"top: 1px\">\n  349:                         <ul class=\"list-inline pull-left startup-menu tab incubator-tab\" id=\"startup_menu_tab\">\n  350                              <li><a onclick=\"startupOverview_click('#overview_container')\" class=\"active\" data-value=\"OVERVIEW\" id=\"overview-tab\">OVERVIEW</a></li>\n  351                              <?php if(!$company['is_preloaded']): ?>\n\n/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/incubator_accelerator/incubator_public_view.php:\n  238                     <div style=\"padding:0\" class=\"row\">\n  239                         <div class=\"col-md-12 clearfix\" style=\"top: 1px\">\n  240:                            <ul class=\"list-inline pull-left startup-menu tab incubator-tab\" id=\"startup_menu_tab\">\n  241                                 <li><a onclick=\"startupOverview_click('#overview_container')\" class=\"active\" data-value=\"OVERVIEW\" id=\"overview-tab\">OVERVIEW</a></li>\n  242                                 <?php if(!$company['is_preloaded']): ?>\n\n/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/legal_corner/legal_corner-view.php:\n   11              <div class=\"row\" style=\"padding:0\">\n   12                  <div class=\"col-xs-12 col-sm-6 col-md-6\">\n   13:                     <ul class=\"list-inline pull-left startup-menu\" id=\"legal-tab\">\n   14  <!--                        <li class=\"disabled\"><a data-toggle=\"tooltip\" data-placement=\"bottom\" title=\"Coming Soon\" onclick=\"showGlossaryPage(this);\" style=\"pointer-events: none;cursor: default;color:#757575;\"><span>Glossary</span></a></li>-->\n   15                          <li><a id=\"template-link\" href=\"javascript:void(0)\" class=\"active legal-active\" onclick=\"showTemplatePage(this);\">Startups</a></li>\n\n/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/startup/management_header_content-view.php:\n   58          <ul class=\"list-inline button-ul\">\n   59              <li><button class=\"btn gray-btn startup-info-save\" onclick=\"save_product('var_info');\">Save</button></li>\n   60:             <li><span class=\"cancel-btn\" onclick=\"hide_show({hide_this:'.basic_info-group',show_this:'.basic_info-hide'});hide_show({show_this:'.startup-menu-container'});hide_show({show_this:'.parent-row'});hide_show({show_this:'.footer_holder'});\">Cancel</span></li>\n   61          </ul>\n   62      </div>\n   ..\n  144              <div class=\"col-sm-3 col-md-3 text-right\">\n  145                  <ul class=\"button-ul margin-right-2\" style=\"brackground:none;border:none;box-shadow:none;list-style-type: none;\">\n  146:                     <li><a onclick=\"hide_show({show_this:'.basic_info-group',hide_this:'.basic_info-hide'});hide_show({hide_this:'.startup-menu-container'});hide_show({hide_this:'.parent-row'});hide_show({hide_this:'.footer_holder'});return false;\">Edit</a></li>\n  147                      <li>&nbsp;</li>\n  148                      <li><input id=\"visibility-toggle-switch\" type=\"checkbox\" name=\"my-checkbox\" <?=$checked?> data-size=\"mini\" data-label-width=\"10\" data-handle-width=\"60\" data-on-text=\"Private\" data-off-text=\"&nbsp;Public\" data-on-color=\"#908DC9\" data-off-color=\"#908DC9\"/></li>\n  ...\n  382  <div class=\"wide container\" style=\"max-width:1170px;background-color:#f9f9f9;\">\n  383  	\n  384:     <div class=\"col-md-12 clearfix startup-menu-container\">\n  385:         <ul class=\"list-inline pull-left startup-menu tab\" id=\"startup_menu_tab\" style=\"margin:0;margin-bottom:-2px;margin-right:0px;\">\n  386              <li id=\"overview_tab\" style=\"padding: 0 0 -1px 0;border:0px solid #d9dadc;border-bottom:0px;\">\n  387                  <a data-toggle=\"tab\" onclick=\"obj_container.startupOverview_click(this,'#overview_container')\" class=\"active\">OVERVIEW</a>\n\n/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/startup/startup_display-view.php:\n  289                  <div style=\"padding:0\" class=\"row\">\n  290                      <div class=\"col-md-12 clearfix\" style=\"padding-left:0px;height:58px;\">\n  291:                         <ul class=\"list-inline pull-left startup-menu tab\" id=\"startup_menu_tab\">\n  292                              <li><a onclick=\"obj_container.startupOverview_click(this,'#overview_container')\" class=\"active\" data-value=\"OVERVIEW\">OVERVIEW</a></li>\n  293                                                                              <?php if ($is_preloaded == 1){\n\n/Applications/MAMP/htdocs/eastfounder4/eastfunding/css/EF_UI.css:\n  802  }\n  803  \n  804: .startup-menu .active {\n  805      border-bottom: 1px solid #E3E3F0;;\n  806  }\n\n/Applications/MAMP/htdocs/eastfounder4/eastfunding/css/startup.css:\n   78  .video-small img{-moz-box-sizing: border-box;cursor: pointer;height: 60px;width:100px;max-width: 80px;padding: 3px;}\n   79  \n   80: .startup-menu-controller ul li.active a, #startup_menu_tab ul li a.active{\n   81    background:#E3E3F0;\n   82    /*border-right:2px solid none;*/\n   ..\n   87  }\n   88  \n   89: /*.startup-menu ul li a.active{background-color: #E3E3F0 !important; border:1px solid #d9dadc;}\n   90: .startup-menu ul li {border: 1px solid #d9dadc;}\n   91  \n   92  ul #startup_menu_tab #fundraising_tab{ margin:0;margin-bottom:-1px;border:5px solid #d9dadc;}\n   93: li .startup-menu {border:1px solid #d9dadc;\"}\n   94  */\n   95  \n   ..\n  245  .startup-header-container{background:#FFFFFF;width:100%;padding:30px 0px}\n  246  .startup-header-wrapper{-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;padding:17px 17px 0px}\n  247: .startup-menu-container{background:#F9F9FA;width:100%}\n  248: .startup-menu-container ul li a{display: inline-block;padding: 19px;color:#757575}\n  249: .startup-menu-container ul li a.active{background: #E3E3F0;border-bottom:#E3E3F0;text-decoration: none}\n  250  .side-box-content{margin-bottom: 0px;padding: 10px 10px;} /*remove extra bottom margin*/\n  251  .header{margin-bottom: 1px;padding: 10px; border-bottom: 1px gray;} /*remove margin-bottom; add border bottom*/\n\n/Applications/MAMP/htdocs/eastfounder4/eastfunding/css/styles.css:\n 2601      margin-top: 30px !important;\n 2602    }\n 2603:   .startup-menu-container {\n 2604      margin-top: 60px;\n 2605    }\n ....\n 2852      padding-right: 0;\n 2853    }\n 2854:   .startup-menu-container .buttons{\n 2855      margin-top: -55px;\n 2856    }\n ....\n 2934      margin-right: -75px;\n 2935    }\n 2936:   .startup-menu-container ul li a {\n 2937      padding-left: 10px !important;\n 2938      padding-right: 10px !important;\n 2939    }\n 2940:   .startup-menu-container > .buttons > .big-share-b { \n 2941      margin-top: 61px; \n 2942    }\n\n/Applications/MAMP/htdocs/eastfounder4/eastfunding/js/entity_followers.js:\n   14          $('#startup_menu_tab').find('.active').removeClass('active');\n   15          //corporate\n   16:         $('ul.startup-menu').find('.active').removeClass('active');\n   17          $(this).addClass('active');\n   18  		window.location.hash = \"followers\";\n\n/Applications/MAMP/htdocs/eastfounder4/eastfunding/js/startup-support.js:\n   39      $('#entity_supporters').on('click',function(){\n   40          $('#startup_menu_tab').find('.active').removeClass('active');\n   41:         $('ul.startup-menu').find('.active').removeClass('active');\n   42          $(this).addClass('active');\n   43          window.location.hash = \"followers\";\n\n/Applications/MAMP/htdocs/eastfounder4/eastfunding/js/startup/management.js:\n  380                  }else{\n  381  //                    hide_show({hide_this:'.basic_info-group',show_this:'.basic_info-hide'});\n  382:                     hide_show({hide_this:'.basic_info-group',show_this:'.basic_info-hide'});hide_show({show_this:'.startup-menu-container'});hide_show({show_this:'.parent-row'});hide_show({show_this:'.footer_holder'});\n  383  \n  384                      twitter = data.data_dum['twitter'];\n\n27 matches across 12 files\n",
+			"settings":
+			{
+				"buffer_size": 10855,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/home_view.php",
+			"settings":
+			{
+				"buffer_size": 14298,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/eastfounder4/eastfunding/css/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 137105,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: le",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/controllers/components",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/css",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/css/profile"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/home_view.php",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/fundraising/featured_fundraising_view.php",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/user/profile_page-view.php",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/_layout/website_header-layout.php",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/index.php",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/config/database.php",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/components/ui/starter-template-9.php",
+		"/Users/admin/Downloads/responsive.gs/css/reset.css",
+		"/Users/admin/Downloads/responsive.gs/css/responsive.gs.16col.css",
+		"/Users/admin/Downloads/responsive.gs/css/responsive.gs.12col.css",
+		"/Users/admin/Downloads/responsive.gs/css/responsive.gs.24col.css",
+		"/Users/admin/Downloads/responsive.gs/css/style.css",
+		"/Users/admin/Downloads/responsive.gs/index.html",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/less/ef-uilibrary.less",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/starter-template-12.html",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/controllers/components/ui.php",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/components/ui/starter-template-8.php",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/components/ui/starter-template-12.php",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/starter-template-11.html",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/starter-template-10.html",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/starter-template-9.html",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/starter-template-8.html",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/components/ui/starter-template-7.php",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/components/ui/starter-template-6.php",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/components/ui/starter-template-5.php",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/starter-template-7.html",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/components/ui/starter-template-4.php",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/components/ui/starter-template-3.php",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/components/ui/starter-template-2.php",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/components/ui/starter-template.php",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/news/top_markets_news-view.php",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/mnc/mnc_list-view.php",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/accelerator/accelerator_list-view.php",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/startup/list_view.php",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/startup/management_product_content-view.php",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/register/register-view.php",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/_layout/website_footer-layout.php",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/people/activate.php",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/_layout/website-layout.php",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/index.html",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/css/bootstrap.css",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/less/ef-variables.less",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/starter-template-5.html",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/core/MY_Loader.php",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/ui-library.html",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/core/MY_Controller.php",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/core/index.html",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/less/variables.less",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/less/bootstrap.less",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/starter-template-6.html",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/login.html",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/css/ef-variables.css",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/css/bootstrap.css",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/css/mixins/responsive-visibility.css",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/css/theme.css",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/css/bootstrap.css.map",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/less/badges.less",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/less/ef.less",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/less/ef/ef-uilibrary.less",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/less/ef/ef-variables.less",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/less/ef/ef-font-icomoon.less",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/starter-template-4.html",
+		"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/LESS.sublime-settings",
+		"/Users/admin/Library/Application Support/Sublime Text 3/Packages/LESS/LESS.sublime-settings",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/less/utilities.less",
+		"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/admin/Library/Application Support/Sublime Text 3/Packages/List LESS Variables/Default (OSX).sublime-keymap",
+		"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/css_style_completions.sublime-settings",
+		"/Users/admin/Library/Application Support/Sublime Text 3/Packages/CSS Extended Completions/css_style_completions.sublime-settings",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/less/popovers.less",
+		"/Users/admin/Library/Application Support/Sublime Text 3/Packages/List LESS Variables/lessvariables.sublime-settings",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/less/ef/ef-font-awesome.less",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/ef-frontend-dev-project.sublime-project",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/starter-template-3.html",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/starter-template-2.html",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/starter-template.html",
+		"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/highlighter.sublime-settings",
+		"/kai+/ninjo/CREATIVE TOOLS+/UI kit/Flat-UI-master/Flat-UI-master/sass/modules/_video.sass",
+		"/kai+/ninjo/CREATIVE TOOLS+/UI kit/Flat-UI-master/Flat-UI-master/sass/modules/_type.sass",
+		"/kai+/ninjo/CREATIVE TOOLS+/UI kit/Flat-UI-master/Flat-UI-master/sass/_mixins.sass",
+		"/kai+/ninjo/CREATIVE TOOLS+/UI kit/Flat-UI-master/Flat-UI-master/sass/modules/_progress.sass",
+		"/kai+/ninjo/CREATIVE TOOLS+/UI kit/Flat-UI-master/Flat-UI-master/sass/modules/_palette.sass",
+		"/kai+/ninjo/CREATIVE TOOLS+/UI kit/Flat-UI-master/Flat-UI-master/sass/modules/_input.sass",
+		"/kai+/ninjo/CREATIVE TOOLS+/UI kit/Flat-UI-master/Flat-UI-master/sass/modules/_footer.sass",
+		"/kai+/ninjo/CREATIVE TOOLS+/UI kit/Flat-UI-master/Flat-UI-master/sass/modules/_demo.sass",
+		"/kai+/ninjo/CREATIVE TOOLS+/UI kit/Flat-UI-master/Flat-UI-master/sass/flat-ui.sass",
+		"/kai+/ninjo/CREATIVE TOOLS+/UI kit/Flat-UI-master/Flat-UI-master/css/flat-ui.css",
+		"/kai+/ninjo/CREATIVE TOOLS+/UI kit/Flat-UI-master/Flat-UI-master/css/bootstrap.css",
+		"/kai+/ninjo/CREATIVE TOOLS+/UI kit/Flat-UI-master/Flat-UI-master/sass/_icon-font.sass",
+		"/kai+/ninjo/CREATIVE TOOLS+/UI kit/Flat-UI-master/Flat-UI-master/sass/_spaces.sass",
+		"/kai+/ninjo/CREATIVE TOOLS+/UI kit/Flat-UI-master/Flat-UI-master/sass/_config.sass",
+		"/kai+/ninjo/CREATIVE TOOLS+/UI kit/Flat-UI-master/Flat-UI-master/sass/_icon-font-24.sass",
+		"/kai+/ninjo/CREATIVE TOOLS+/UI kit/Flat-UI-master/Flat-UI-master/sass/modules/_checkbox-and-radio.sass",
+		"/kai+/ninjo/CREATIVE TOOLS+/UI kit/Flat-UI-master/Flat-UI-master/sass/modules/_btn.sass",
+		"/kai+/ninjo/CREATIVE TOOLS+/UI kit/Flat-UI-master/Flat-UI-master/sass/modules/_pager.sass",
+		"/Applications/MAMP/htdocs/eastfounder4/eastfunding/frontend/less/carousel.less"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"startup-menu",
+			"ul_768",
+			"list-inline",
+			"startup-menu",
+			"left-sub-menu",
+			"list-inline",
+			"#homepage .section_1 h1",
+			"title-tag",
+			".icon-bar:hover",
+			".icon-bar",
+			".right-sub-menu ul",
+			"Email address already used.\nWe have already received an invitation request using this email address:",
+			"Email address already used.\nWe have already received an invitation request using this email address: carl@eastfounder.co ",
+			"profile pull-right clearfix",
+			"esming",
+			"img-container icon-wrapper img-round",
+			"Why East Founder?",
+			"video",
+			"width:76%",
+			"img/",
+			"img",
+			"img/",
+			"img",
+			"img/",
+			"img",
+			"/img",
+			"frontend",
+			"css",
+			"mnc_list_table",
+			"table",
+			"ef-width-2",
+			"width:80%",
+			"ef-width-2",
+			"ef-feed-details",
+			"ef-width-2",
+			"ef-feed-details",
+			"accelerator_table",
+			"input[type=\"password\"]",
+			"iframe",
+			"product",
+			"margin-left: -50px;",
+			"product",
+			"Add Tech Tags",
+			"input[type=\"password\"]",
+			"login_email_add",
+			"Enter Email",
+			"login",
+			"main-bg-1",
+			"navbar-nav",
+			"bs-example-navbar-collapse-1",
+			"padding-right: 50px",
+			"left-sub-menu",
+			"nav",
+			"padding-left: 50px",
+			"%;\n",
+			"footer_center",
+			"nav",
+			"nav navbar-nav pull-left",
+			"icon-arrow-down",
+			"icon-arrow-down:before",
+			"local",
+			"database",
+			"db",
+			"ef-produc",
+			"ef-center-inside-box",
+			"carousel",
+			"ef-card-boxes",
+			"ef-card-boxes\"",
+			"summary",
+			"notifications",
+			"edit",
+			".text-2",
+			".text-1",
+			"ef-details",
+			"ef-investments",
+			"ef-investment",
+			"ef-investments",
+			"angel",
+			"preference",
+			"//padding",
+			"ef-padding-15",
+			"ef-padding",
+			"ef-text-padd",
+			"preference",
+			"ef-news-trends",
+			"require",
+			"required",
+			"require",
+			"ef-preference",
+			"ef-investments",
+			"your aim",
+			"form",
+			"//input",
+			"input-xs",
+			"input-xs v",
+			"input-xs ",
+			".ef-investments",
+			"experience",
+			".input-xs",
+			".ef-investments",
+			".input-xs",
+			".ef-margin-top-15",
+			"ef-investments",
+			"label-text",
+			"panel title",
+			"panel",
+			".ef-user-photo",
+			"input-sm",
+			"ef-apply-to-invest",
+			"//input style",
+			"//input styles",
+			".label-text",
+			"fields",
+			"@font-size-base",
+			"radio",
+			"east",
+			"//east",
+			"ef-apply-to-invest",
+			"@ef-color-1",
+			".ef-content-2",
+			".ef-apply-to-invest ",
+			"ef-icon-qualification",
+			"before",
+			".arrow_box",
+			"arrow-box",
+			"ef-about-details-box",
+			"//radius",
+			"ef-about-details-box"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"frontend/img/",
+			"frontend/img",
+			"ef-product-carousel-slider",
+			"ef-carousel",
+			"frontend/img/",
+			"ef-investor-listing-box",
+			"circle"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Applications/MAMP/htdocs/eastfounder4/eastfunding/css/responsive.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2701,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1466,
+								1466
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 165.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/Applications/MAMP/htdocs/eastfounder4/eastfunding/css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 143157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143108,
+								143108
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 51000.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10855,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										219,
+										225
+									],
+									[
+										317,
+										323
+									],
+									[
+										383,
+										389
+									],
+									[
+										620,
+										626
+									],
+									[
+										672,
+										678
+									],
+									[
+										1021,
+										1027
+									],
+									[
+										1288,
+										1294
+									],
+									[
+										1671,
+										1683
+									],
+									[
+										1821,
+										1833
+									],
+									[
+										2002,
+										2014
+									],
+									[
+										2221,
+										2233
+									],
+									[
+										3113,
+										3125
+									],
+									[
+										3741,
+										3753
+									],
+									[
+										4333,
+										4345
+									],
+									[
+										5220,
+										5232
+									],
+									[
+										5726,
+										5738
+									],
+									[
+										6332,
+										6344
+									],
+									[
+										6405,
+										6417
+									],
+									[
+										7085,
+										7097
+									],
+									[
+										7503,
+										7515
+									],
+									[
+										7790,
+										7802
+									],
+									[
+										7968,
+										7980
+									],
+									[
+										8069,
+										8081
+									],
+									[
+										8237,
+										8249
+									],
+									[
+										8513,
+										8525
+									],
+									[
+										8575,
+										8587
+									],
+									[
+										8665,
+										8677
+									],
+									[
+										9112,
+										9124
+									],
+									[
+										9233,
+										9245
+									],
+									[
+										9366,
+										9378
+									],
+									[
+										9505,
+										9517
+									],
+									[
+										9799,
+										9811
+									],
+									[
+										10172,
+										10184
+									],
+									[
+										10652,
+										10664
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								1356,
+								1356
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 2,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 578.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Applications/MAMP/htdocs/eastfounder4/eastfunding/application/views/home_view.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14298,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1112,
+								1112
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 56.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Applications/MAMP/htdocs/eastfounder4/eastfunding/css/bootstrap.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 137105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61307,
+								61606
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 53964.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.217036174078,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ef-frontend-dev-project.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 289.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

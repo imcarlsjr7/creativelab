@@ -1,0 +1,634 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>East Funding - UI library</title>s
+
+    <!-- Bootstrap CSS minified -->
+    <link rel="stylesheet" type="text/css" href="css/bootstrap-min.css" />
+
+    <!-- EF Theme CSS minified -->
+    <link rel="stylesheet" type="text/css" href="css/ef-theme-min.css" />
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    </head>
+    <body>
+        <!-- Fixed navbar -->
+        <div class="navbar navbar-inverse navbar-fixed-top no-border">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle navbar-toggle-ef" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="#">Bootstrap theme</a>
+            </div>
+            <div class="navbar-collapse collapse">
+              <ul class="nav navbar-nav">
+                <li class="active"><a href="#">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <i class="icon-arrow-down"></i></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="#">Action</a></li>
+                    <li><a href="#">Another action</a></li>
+                    <li><a href="#">Something else here</a></li>
+                    <li class="divider"></li>
+                    <li class="dropdown-header">Nav header</li>
+                    <li><a href="#">Separated link</a></li>
+                    <li><a href="#">One more separated link</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div> <!-- /.nav-collapse -->
+          </div>
+        </div> <!-- /.navbar -->
+
+        <div class="container theme-showcase">
+
+          <div class="jumbotron ef-jumbotron">
+            <h1>East Founder - Branding UI library</h1>
+            <p class="calibri-ef-light">Lorem ipsum dolor sit amet, consectetur velit esse cillum  adipiscing elit, (Calibri Light)</p>
+            <p class="calibri-ef-light-italic">Sed do eiusmod velit esse cillum  tempor incididunt ut labore et dolore magna aliqua. (Calibri Light-Italic)</p>
+            <p class="calibri-ef-regular">Ut enim ad minim veniam, velit esse cillum  quis nostrud exercitation ullamco (Calibri Regular)</p>
+            <p class="calibri-ef-regular-italic">Laboris velit esse cillum  nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in (Calibri Regular-Italic) </p>
+            <p class="calibri-ef-bold">Reprehenderit in voluptate velit velit esse cillum  esse cillum dolore eu fugiat nulla (Calibri Bold)</p>
+            <p class="calibri-ef-bold-italic">Pariatur. Excepteur velit esse cillum  sint occaecat (Calibri Bold-Italic)</p><br/>
+
+            <h1>h1. East Founder heading <small>Secondary text</small></h1>
+            <h2>h2. East Founder heading <small>Secondary text</small></h2>
+            <h3>h3. East Founder heading <small>Secondary text</small></h3>
+            <h4>h4. East Founder heading <small>Secondary text</small></h4>
+            <h5>h5. East Founder heading <small>Secondary text</small></h5>
+            <h6>h6. East Founder heading <small>Secondary text</small></h6> <br/>
+
+            <h1>Starter Templates</h1>
+
+          </div>
+
+          <div class="page-header">
+            <h1>Color Pallete</h1>
+          </div>
+
+          <div class="row ef-colors">
+            <div class="col-md-4 ef-color-1"><span>1</span></div>
+            <div class="col-md-1 ef-color-2"><span>2</span></div>
+            <div class="col-md-1 ef-color-3"><span>3</span></div>
+            <div class="col-md-1 ef-color-4"><span>4</span></div>
+            <div class="col-md-1 ef-color-5"><span>5</span></div>
+            <div class="col-md-1 ef-color-6"><span>6</span></div>
+            <div class="col-md-1 ef-color-7"><span>7</span></div>
+            <div class="col-md-1 ef-color-8"><span>8</span></div>
+            <div class="col-md-1 ef-color-9"><span>9</span></div>
+          </div>
+
+          <div class="row ef-colors-2">
+            <div class="col-md-1 ef-color-10"><span>10</span></div>
+            <div class="col-md-1 ef-color-11" style="color:#f1f1f1"><span>11</div>
+            <div class="col-md-1 ef-color-12"><span>12</span></div>
+            <div class="col-md-2 ef-color-13" style="width:130px"><span>13</span></div>
+            <div class="col-md-1 ef-color-14"><span>14</span></div>
+            <div class="col-md-1 ef-color-15"><span>15</span></div>
+            <div class="col-md-1 ef-color-16"><span>16</span></div>
+            <div class="col-md-1 ef-color-17"><span>17</span></div>
+            <div class="col-md-1 ef-color-18"><span>18</span></div>
+          </div>
+
+          <div class="page-header">
+            <h1>Buttons</h1>
+          </div>
+          <p>
+            <button type="button" class="btn btn-lg ef-btn-style-1">Primary</button>
+            <button type="button" class="btn btn-lg ef-btn-style-5">Secondary</button>
+            <button type="button" class="btn btn-lg ef-btn-style-2" disabled="true">Disable</button>
+            <button type="button" class="btn with-outline btn-lg ef-btn-style-3">Outline</button>
+            <button type="button" class="btn with-outline-2 btn-lg ef-btn-style-4" disabled="true" >Disable</button>
+            <button type="button" class="btn btn-lg btn-link">Link</button>
+          </p>
+          <p>
+            <button type="button" class="btn ef-btn-style-1">Primary</button>
+            <button type="button" class="btn ef-btn-style-5">Secondary</button>
+            <button type="button" class="btn ef-btn-style-2" disabled="true" >Disable</button>
+            <button type="button" class="btn with-outline ef-btn-style-3">Outline</button>
+            <button type="button" class="btn with-outline-2 ef-btn-style-4" disabled="true">Disable</button>
+            <button type="button" class="btn btn-link">Link</button>
+          </p>
+          <p>
+            <button type="button" class="btn btn-sm ef-btn-style-1">Primary</button>
+            <button type="button" class="btn btn-sm ef-btn-style-5">Secondary</button>
+            <button type="button" class="btn btn-sm ef-btn-style-2" disabled="true">Disable</button>
+            <button type="button" class="btn with-outline btn-sm ef-btn-style-3">Outline</button>
+            <button type="button" class="btn with-outline-2 btn-sm ef-btn-style-4" disabled="true">Disable</button>
+            <button type="button" class="btn btn-sm btn-link">Link</button>
+          </p>
+          <p>
+            <button type="button" class="btn btn-xs ef-btn-style-1">Primary</button>
+            <button type="button" class="btn btn-xs ef-btn-style-5">Secondary</button>
+            <button type="button" class="btn btn-xs ef-btn-style-2" disabled="true">Disable</button>
+            <button type="button" class="btn with-outline btn-xs ef-btn-style-3">Outline</button>
+            <button type="button" class="btn with-outline-2 btn-xs ef-btn-style-4" disabled="true">Disable</button>
+            <button type="button" class="btn btn-xs btn-link">Link</button>
+          </p>
+
+          <div class="row">
+            <div class="col-md-12">
+              <div class="ef-loadmore">
+                <button type="button" class="btn with-outline-3"><span>MORE</span> <i class="icon-arrow-down"></i>
+                </button>
+              </div>
+            </div> <!-- /.col -->
+          </div> <!-- /.row -->
+
+          <div class="row">
+            <div class="col-md-12">
+              <div class="ef-loadmore">
+                <button type="button" class="btn btn-xs with-outline-3"><span>MORE</span> <i class="icon-arrow-down"></i>
+                </button>
+              </div>
+            </div> <!-- /.col -->
+          </div> <!-- /.row -->
+
+          <div class="row">
+            <div class="col-md-12 ef-bg-2">
+              <div class="ef-loadmore">
+                <div class="ef-loadmore-wrap-lg"><img src="img/ico_ef_loading.gif"></div>
+              </div>
+            </div> <!-- /.col -->
+          </div> <!-- /.row -->
+
+          <div class="row">
+            <div class="col-md-12 ef-bg-3">
+              <div class="ef-loadmore">
+                <div class="ef-loadmore-wrap-sm"><img src="img/ico_ef_loading.gif"></div>
+              </div>
+            </div> <!-- /.col -->
+          </div> <!-- /.row -->
+
+          <div class="page-header">
+            <h1>Thumbnail sizes (user)</h1>
+
+            <div class="row">
+              <div class="col-md-2">
+                <a href="#"><img class="ef-thumb-lg img-circle center-block" src="img/img_thumb_photo_user_default.jpg"></a>
+                <p class="text-center" style="padding-top:10px;">95x95</p>
+              </div><!-- /.col -->
+              <div class="col-md-2" style="padding-top: 10px;">
+                <a href="#"><img class="ef-thumb-md img-circle center-block" src="img/img_thumb_photo_user_default.jpg"></a>
+                <p class="text-center" style="padding-top:10px;">80x80</p>
+              </div><!-- /.col -->
+              <div class="col-md-2" style="padding-top: 30px;">
+                <a href="#"><img class="ef-thumb-sm img-circle center-block" src="img/img_thumb_photo_user_default.jpg"></a>
+                <p class="text-center" style="padding-top:10px;">40x40</p>
+              </div><!-- /.col -->
+              <div class="col-md-2">
+                <a href="#"><img class="ef-thumb-lg img-circle center-block" src="img/img_thumb_photo_user.jpg"></a>
+                <p class="text-center" style="padding-top:10px;">95x95</p>
+              </div><!-- /.col -->
+              <div class="col-md-2" style="padding-top: 10px;">
+                <a href="#"><img class="ef-thumb-md img-circle center-block" src="img/img_thumb_photo_user.jpg"></a>
+                <p class="text-center" style="padding-top:10px;">80x80</p>
+              </div><!-- /.col -->
+              <div class="col-md-2" style="padding-top: 30px;">
+                <a href="#"><img class="ef-thumb-sm img-circle center-block" src="img/img_thumb_photo_user.jpg"></a>
+                <p class="text-center" style="padding-top:10px;">40x40</p>
+              </div><!-- /.col -->
+            </div>
+
+          </div><!-- /.page-header -->
+
+          <div class="page-header">
+            <h1>Thumbnail sizes (company)</h1>
+
+            <div class="row">
+              <div class="col-md-2">
+                <a href="#"><img class="ef-thumb-lg center-block" src="img/img_thumb_photo_company_default.jpg"></a>
+                <p class="text-center" style="padding-top:10px;">95x95</p>
+              </div><!-- /.col -->
+              <div class="col-md-2" style="padding-top: 10px;">
+                <a href="#"><img class="ef-thumb-md center-block" src="img/img_thumb_photo_company_default.jpg"></a>
+                <p class="text-center" style="padding-top:10px;">80x80</p>
+              </div><!-- /.col -->
+              <div class="col-md-2" style="padding-top: 30px;">
+                <a href="#"><img class="ef-thumb-sm center-block" src="img/img_thumb_photo_company_default.jpg"></a>
+                <p class="text-center" style="padding-top:10px;">40x40</p>
+              </div><!-- /.col -->
+              <div class="col-md-2">
+                <a href="#"><img class="ef-thumb-lg center-block" src="img/img_thumb_photo_company.jpg"></a>
+                <p class="text-center" style="padding-top:10px;">95x95</p>
+              </div><!-- /.col -->
+              <div class="col-md-2" style="padding-top: 10px;">
+                <a href="#"><img class="ef-thumb-md center-block" src="img/img_thumb_photo_company.jpg"></a>
+                <p class="text-center" style="padding-top:10px;">80x80</p>
+              </div><!-- /.col -->
+              <div class="col-md-2" style="padding-top: 30px;">
+                <a href="#"><img class="ef-thumb-sm center-block" src="img/img_thumb_photo_company.jpg"></a>
+                <p class="text-center" style="padding-top:10px;">40x40</p>
+              </div><!-- /.col -->
+            </div><!-- /.row -->
+
+          </div>
+
+          <div class="page-header">
+            <h1>Icons</h1>
+          </div>
+
+          <div class="row ef-color-1" style="padding: 20px 10px 10px 10px;">
+            <div class="col-md-6">
+              <form class="navbar-form navbar-left ef-top-search" role="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" placeholder="Search">
+                  <button type="submit" class="btn btn-xs ef-search-btn"><i class="fa fa-search"></i></button>
+                </div>
+              </form>
+            </div><!-- /.col -->
+            <div class="col-md-6">
+              <ul class="ef-top-icon-group">
+                <li><a href="#" class="ef-user-photo"><img src="img/img_thumb_photo_user.jpg"></a></li>
+                <li><a href="#" class="ef-user-photo"><img src="img/img_thumb_photo_user_default.jpg"></a></li>
+                <li><a href="#" class="ef-user-message"><i class="fa fa-envelope-o fa-3"></i><span class="badge">7</span></a></li>
+                <li><a href="#" class="ef-user-notification"><i class="fa fa-bell-o fa-3"></i><span class="badge">22</span></a></li>
+              </ul>
+            </div><!-- /.col -->
+          </div>
+
+          <div class="row ef-color-11" style="padding: 0">
+            <div class="col-md-6 ef-color-6" style="padding:17px 25px 6px 0; float:left">
+              <ul class="ef-social-icon-group-2">
+                <li><a href="#"><i class="fa fa-facebook fa-3"></i></a></li>
+                <li><a href="#"><i class="fa fa-twitter fa-3"></i></a></li>
+                <li><a href="#"><i class="fa fa-linkedin fa-3"></i></a></li>
+                <li><a href="#"><i class="fa fa-angellist fa-3"></i></a></li>
+              </ul>
+            </div><!-- /.col -->
+            <div class="col-md-6 ef-color-11" style="padding:15px 25px 0 0; float:left">
+              <ul class="ef-social-icon-group-1">
+                <li><a href="#"><i class="fa fa-facebook fa-3"></i></a></li>
+                <li><a href="#"><i class="fa fa-twitter fa-3"></i></a></li>
+                <li><a href="#"><i class="fa fa-linkedin fa-3"></i></a></li>
+                <li><a href="#"><i class="icon-ef-logo-ico"></i></a></li>
+              </ul>
+            </div><!-- /.col -->
+          </div>
+
+          <div class="row ef-color-11" style="margin-top:30px; padding: 20px 0 0">
+            <div class="col-md-6">
+              <ul class="ef-feed-actions">
+                <li><a href="#"><i class="icon-thumbsup"></i>Like</a></li>
+                <li><a href="#"><i class="icon-comment"></i>Comment</a></li>
+                <li><a href="#"><i class="icon-reply"></i>Share</a></li>
+              </ul>
+            </div><!-- /.col -->
+            <div class="col-md-6">
+              <ul class="ef-icon-assets">
+                <li><i class="icon-cross"></i></li>
+                <li><i class="icon-plus"></i></li>
+                <li><i class="icon-minus"></i></li>
+                <li><i class="icon-uniE615"></i></li>
+                <li><i class="icon-close-3"></i></li>
+              </ul>
+            </div><!-- /.col -->
+          </div><!-- /.row -->
+
+          <div class="page-header">
+            <h1>Sprite</h1>
+          </div>
+
+          <div class="row" style="margin-top:30px; padding: 20px 0 0">
+            <div class="col-md-12">
+              <ul class="ef-list-style">
+                <li><img src="img/ico_ef_spacer.gif" class="ef-icon-deck"></li>
+                <li><img src="img/ico_ef_spacer.gif" class="ef-icon-demo"></li>
+              </ul>
+              <ul class="ef-list-style">
+                <li><img src="img/ico_ef_spacer.gif" class="ef-icon-lock"></li>
+                <li><img src="img/ico_ef_spacer.gif" class="ef-icon-check"></li>
+                <li><img src="img/ico_ef_spacer.gif" class="ef-icon-question"></li>
+                <li><a href="#"></a></li>
+              </ul>
+            </div><!-- /.col -->
+          </div><!-- /.row -->
+
+          <div class="page-header">
+            <h1>Input groups</h1>
+          </div>
+
+          <div class="row">
+            <div class="col-md-6" style="padding-top: 30px;">
+              <input class="form-control" type="text" placeholder="Active">  <br>
+              <input class="form-control" type="text" placeholder="Disabled" disabled="true">
+            </div><!-- /.col -->
+            <div class="col-md-3">
+                <div class="span3">
+                  <h3 class="demo-panel-title">Custom Checkboxes</h3>
+                  <label class="checkbox" for="checkbox1">
+                    <input type="checkbox" value="" id="checkbox1">
+                    Unchecked
+                  </label>
+                  <label class="checkbox" for="checkbox2">
+                    <input type="checkbox" checked="checked" value="" id="checkbox2">
+                    Checked
+                  </label>
+
+                  <label class="checkbox" for="checkbox3">
+                    <input type="checkbox" value="" id="checkbox3" disabled="">
+                    Disabled unchecked
+                  </label>
+                  <label class="checkbox" for="checkbox4">
+                    <input type="checkbox" checked="checked" value="" id="checkbox4" disabled="">
+                    Disabled checked
+                  </label>
+                </div>
+            </div><!-- /.col -->
+           <div class="col-md-3">
+                <div class="span3">
+                    <h3 class="demo-panel-title">Custom Radio Buttons</h3>
+                    <label class="radio">
+                      <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1">
+                      Radio is off
+                    </label>
+                    <label class="radio">
+                      <input type="radio" name="optionsRadios" id="optionsRadios2" value="option1" checked="">
+                      Radio is on
+                    </label>
+
+                    <label class="radio">
+                      <input type="radio" name="optionsRadiosDisabled" id="optionsRadios3" value="option2" disabled="">
+                      Disabled radio is off
+                    </label>
+                    <label class="radio">
+                      <input type="radio" name="optionsRadiosDisabled" id="optionsRadios4" value="option2" checked="" disabled="">
+                      Disabled radio is on
+                    </label>
+                  </div>
+            </div><!-- /.col -->
+          </div>
+
+         <div class="page-header">
+            <h1>Menus</h1>
+          </div>
+
+          <div class="row">
+            <div class="col-md-4">
+              <div class="btn-group">
+                    <button class="btn btn-default ef-text-cap" type="button">Select a region</button>
+                    <button data-toggle="dropdown" class="btn btn-default dropdown-toggle" type="button">
+                      <span class="icon-arrow-down"></span>
+                      <span class="sr-only">Toggle Dropdown</span>
+                    </button>
+                    <ul role="menu" class="dropdown-menu">
+                      <li><a href="#">Action</a></li>
+                      <li><a href="#">Another action</a></li>
+                      <li><a href="#">Something else here</a></li>
+                      <li class="divider"></li>
+                      <li><a href="#">Separated link</a></li>
+                    </ul>
+                  </div>
+            </div> <!-- /.col -->
+            <div class="col-md-8">
+              <ul class="ef-menu-pill">
+                <li><a href="#">All</a></li>
+                <li><a href="#">Following</a></li>
+                <li><a class="active" href="#">Portfolio</a></li>
+                <li><a href="#">Companies</a></li>
+                <li><a href="#">News</a></li>
+                <li><a href="#">Status</a></li>
+                <li><a href="#">You</a></li>
+              </ul>
+            </div><!-- /.col -->
+          </div><!-- /.row -->
+
+          <div class="page-header">
+            <h1>Navbars</h1>
+          </div>
+
+          <div class="navbar navbar-default">
+            <div class="container">
+              <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">Project name</a>
+              </div>
+              <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav ef-nav">
+                  <li class="active"><a href="#">Home</a></li>
+                  <li><a href="#about">About</a></li>
+                  <li><a href="#contact">Contact</a></li>
+                  <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <i class="icon-arrow-down"></i></a>
+                    <ul class="dropdown-menu">
+                      <li><a href="#">Action</a></li>
+                      <li><a href="#">Another action</a></li>
+                      <li><a href="#">Something else here</a></li>
+                      <li class="divider"></li>
+                      <li class="dropdown-header">Nav header</li>
+                      <li><a href="#">Separated link</a></li>
+                      <li><a href="#">One more separated link</a></li>
+                    </ul>
+                  </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                  <li><a href="../navbar/">Default</a></li>
+                  <li><a href="../navbar-static-top/">Static top</a></li>
+                  <li class="active"><a href="./">Fixed top</a></li>
+                </ul>
+              </div><!--/.nav-collapse -->
+            </div>
+          </div>
+
+          <div class="page-header">
+            <h1>Alerts</h1>
+          </div>
+          <div class="alert alert-success">
+            <strong>Well done!</strong> You successfully read this important alert message.
+          </div>
+          <div class="alert alert-info">
+            <strong>Heads up!</strong> This alert needs your attention, but it's not super important.
+          </div>
+          <div class="alert alert-warning">
+            <strong>Warning!</strong> Best check yo self, you're not looking too good.
+          </div>
+          <div class="alert alert-danger">
+            <strong>Oh snap!</strong> Change a few things up and try submitting again.
+          </div>
+
+          <div class="page-header">
+            <h1>Progress bars</h1>
+          </div>
+
+          <div class="row">
+            <div class="col-md-2">
+              <div class="ef_arrow_box"><a href="#">Tips</a></div>
+            </div>
+            <div class="col-md-10">
+
+            <div class="progress">
+              <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;"><span class="sr-only">60% Complete</span><img class="check-completeness" src="img/ico_ef_spacer.gif">
+              </div>
+            </div>
+
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-md-2">
+              <div class="ef_arrow_box"><a href="#">Tips</a></div>
+            </div>
+            <div class="col-md-10">
+
+            <div class="progress">
+              <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%"><span class="sr-only">40% Complete (success)</span><img class="check-completeness" src="img/ico_ef_spacer.gif">
+              </div>
+            </div>
+
+            </div>
+          </div>
+
+          <div class="page-header">
+            <h1>List groups</h1>
+          </div>
+          <div class="row">
+            <div class="col-md-4">
+              <ul class="list-group ef-box-style-1">
+                <li class="list-group-item ef-side-menu active-2">Dapibus ac facilisis in</li>
+                <li class="list-group-item ef-side-menu">Dapibus ac facilisis in</li>
+                <li class="list-group-item ef-side-menu">Morbi leo risus</li>
+                <li class="list-group-item ef-side-menu">Porta ac consectetur ac</li>
+                <li class="list-group-item ef-side-menu">Vestibulum at eros</li>
+              </ul>
+            </div><!-- /.col -->
+            <div class="col-md-4">
+              <div class="list-group ef-box-style-1">
+                <a href="#" class="list-group-item">Cras justo odio</a>
+                <a href="#" class="list-group-item active">Dapibus ac facilisis in</a>
+                <a href="#" class="list-group-item">Morbi leo risus</a>
+                <a href="#" class="list-group-item">Porta ac consectetur ac</a>
+                <a href="#" class="list-group-item">Vestibulum at eros</a>
+              </div>
+            </div><!-- /.col -->
+            <div class="col-md-4">
+              <div class="list-group ef-box-style-1">
+                <a href="#" class="list-group-item">
+                  <h4 class="list-group-item-heading">List group item heading</h4>
+                  <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+                </a>
+                <a href="#" class="list-group-item active">
+                  <h4 class="list-group-item-heading">List group item heading</h4>
+                  <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+                </a>
+                <a href="#" class="list-group-item">
+                  <h4 class="list-group-item-heading">List group item heading</h4>
+                  <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+                </a>
+              </div>
+            </div><!-- /.col -->
+          </div>
+
+          <div class="page-header">
+            <h1>Panels / Boxes</h1>
+          </div>
+          <div class="row">
+            <div class="col-md-4">
+              <div class="panel ef-box-style-2">
+                <div class="panel-body">
+                  Panel content Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.totam rem aperiam, eaque ipsa quae ab architecto beatae vitae dicta sunt explicabo.t fugit, sed quia consequuntur magni dolores eos qut fugit, sed quia consequuntur magni dolores eos qu Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+                </div>
+              </div>
+              <div class="panel ef-box-style-3">
+                <div class="panel-body">
+                  Panel content sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt Nemo enim ipsam voluptatem quia voluptas sit aspernatur t fugit, sed quia
+                </div>
+              </div>
+            </div><!-- /.col -->
+            <div class="col-md-4">
+              <div class="panel panel-default ef-box-style-1">
+                <div class="panel-heading ef-box-heading-1">
+                  <h3 class="panel-title">Panel title</h3>
+                </div>
+                <div class="panel-body">
+                  Panel content eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt
+                </div>
+              </div>
+              <div class="panel panel-default ef-box-style-1">
+                <div class="panel-heading ef-box-heading-2">
+                  <h3 class="panel-title">Panel title</h3>
+                </div>
+                <div class="panel-body">
+                  Panel content eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt
+                </div>
+              </div>
+              <div class="panel panel-default ef-box-style-1 ef-login-box" style="width:100%">
+                <div class="panel-heading ef-box-heading-2">
+                  <div class="ef-logo"><img class="logo-sm" src="img/ico_ef_spacer.gif"><p>EastFounder.co <span>Login</span></p></div>
+                </div>
+                <div class="panel-body">
+                  <form role="form">
+                    <ul class="ef-login-form">
+                      <li><input type="text" class="form-control" placeholder="Email Address"> <span><i class="fa fa-envelope-o fa-3"></i></span></li>
+                      <li><input type="text" class="form-control" placeholder="Password"> <span style="left:7px"><img src="img/ico_ef_spacer.gif" class="ef-pass"></span></li>
+                      <li><button class="btn btn-lg ef-btn-style-1 ef-btn-login" type="button">LOGIN</button></li>
+                      <li><div class="or"><p>or</p></div></li>
+                      <li><a href="#">Forgot Password?</a><a href="#">Register Now</a></li>
+                    </ul>
+
+                  </form>
+                </div>
+              </div>
+            </div><!-- /.col -->
+            <div class="col-md-4">
+              <div class="panel panel-default ef-box-style-1 ef-box-square">
+                <div class="panel-heading ef-box-heading-1">
+                  <h3 class="panel-title">Panel title (square border)</h3>
+                </div>
+                <div class="panel-body">
+                  Panel content eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt
+                </div>
+              </div>
+              <div class="panel panel-default ef-box-style-1 ef-box-square">
+                <div class="panel-heading ef-box-heading-2 ef-box-square">
+                  <h3 class="panel-title">Panel title (square border)</h3>
+                </div>
+                <div class="panel-body">
+                  Panel content eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciuntipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciuntipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciuntipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciuntipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit t fugit, sed quia consequuntur magni dolores eos qu t fugit, sed quia consequuntur magni.
+                </div>
+              </div>
+
+            </div><!-- /.col -->
+
+          </div><!-- /.row -->
+
+          <div class="page-header">
+            <h1>Wells</h1>
+          </div>
+          <div class="well">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed diam eget risus varius blandit sit amet non magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cras mattis consectetur purus sit amet fermentum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Aenean lacinia bibendum nulla sed consectetur.</p>
+          </div>
+
+
+        </div> <!-- /container -->
+
+
+        <!-- Bootstrap core JavaScript
+        ================================================== -->
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script src="js/jquery.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/custom_checkbox_and_radio.js"></script>
+        <script src="js/custom_radio.js"></script>
+        <!-- <script src="../../assets/js/holder.js"></script> -->
+      </body>
+
+
+    </html>
