@@ -277,14 +277,21 @@ header {
 	    letter-spacing: 1px;
 		&:focus {
 			box-shadow: none;
-			border: 1px solid @wdl-color-7;
+			border: 1px solid #b7ac8f;
 		}
 	}
 /* all */
-::-webkit-input-placeholder { color:#b7ac8f; }
-::-moz-placeholder { color:#b7ac8f; } /* firefox 19+ */
-:-ms-input-placeholder { color:#b7ac8f; } /* ie */
-input:-moz-placeholder { color:#b7ac8f; }
+::-webkit-input-placeholder { color:#494437; }
+::-moz-placeholder { color:#494437; } /* firefox 19+ */
+:-ms-input-placeholder { color:#494437; } /* ie */
+input:-moz-placeholder { color:#494437; }
+
+/* all focus */
+::-webkit-input-placeholder:focus { color:#b7ac8f; }
+::-moz-placeholder:focus { color:#b7ac8f; } /* firefox 19+ */
+:-ms-input-placeholder:focus { color:#b7ac8f; } /* ie */
+input:-moz-placeholder:focus { color:#b7ac8f;}
+
 	.btn-success {
 		.wdl-round-1;
 		.wdl-shadow-2;

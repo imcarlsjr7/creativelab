@@ -236,6 +236,9 @@ header .navbar-header .navbar-brand {
   /* all */
   /* firefox 19+ */
   /* ie */
+  /* all focus */
+  /* firefox 19+ */
+  /* ie */
 }
 .wdl-contact .contact {
   padding-top: 210px;
@@ -271,15 +274,27 @@ header .navbar-header .navbar-brand {
   border: 1px solid #b7ac8f;
 }
 .wdl-contact ::-webkit-input-placeholder {
-  color: #b7ac8f;
+  color: #494437;
 }
 .wdl-contact ::-moz-placeholder {
-  color: #b7ac8f;
+  color: #494437;
 }
 .wdl-contact :-ms-input-placeholder {
-  color: #b7ac8f;
+  color: #494437;
 }
 .wdl-contact input:-moz-placeholder {
+  color: #494437;
+}
+.wdl-contact ::-webkit-input-placeholder:focus {
+  color: #b7ac8f;
+}
+.wdl-contact ::-moz-placeholder:focus {
+  color: #b7ac8f;
+}
+.wdl-contact :-ms-input-placeholder:focus {
+  color: #b7ac8f;
+}
+.wdl-contact input:-moz-placeholder:focus {
   color: #b7ac8f;
 }
 .wdl-contact .btn-success {
