@@ -270,7 +270,7 @@ header {
 		.wdl-round-2;
 		height: 45px;
 		padding-left: 20px;
-		background-color: black;
+		background-color: #1c1912;
 		border-color: @wdl-color-8;
 		font-size: 16px;
 	    font-weight: 200;
@@ -281,10 +281,10 @@ header {
 		}
 	}
 /* all */
-::-webkit-input-placeholder { color:#f00; }
-::-moz-placeholder { color:#f00; } /* firefox 19+ */
-:-ms-input-placeholder { color:#f00; } /* ie */
-input:-moz-placeholder { color:#f00; }
+::-webkit-input-placeholder { color:#b7ac8f; }
+::-moz-placeholder { color:#b7ac8f; } /* firefox 19+ */
+:-ms-input-placeholder { color:#b7ac8f; } /* ie */
+input:-moz-placeholder { color:#b7ac8f; }
 	.btn-success {
 		.wdl-round-1;
 		.wdl-shadow-2;
@@ -643,6 +643,65 @@ footer {
 	}
 }
 }
+
+//bouncing arrow
+
+@-moz-keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    -moz-transform: translateX(0);
+    transform: translateX(0);
+  }
+  40% {
+    -moz-transform: translateX(-30px);
+    transform: translateX(-30px);
+  }
+  60% {
+    -moz-transform: translateX(-15px);
+    transform: translateX(-15px);
+  }
+}
+@-webkit-keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  40% {
+    -webkit-transform: translateX(-30px);
+    transform: translateX(-30px);
+  }
+  60% {
+    -webkit-transform: translateX(-15px);
+    transform: translateX(-15px);
+  }
+}
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    -moz-transform: translateX(0);
+    -ms-transform: translateX(0);
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  40% {
+    -moz-transform: translateX(-30px);
+    -ms-transform: translateX(-30px);
+    -webkit-transform: translateX(-30px);
+    transform: translateX(-30px);
+  }
+  60% {
+    -moz-transform: translateX(-15px);
+    -ms-transform: translateX(-15px);
+    -webkit-transform: translateX(-15px);
+    transform: translateX(-15px);
+  }
+}
+
+.bounce {
+  -moz-animation: bounce 2s infinite;
+  -webkit-animation: bounce 2s infinite;
+  animation: bounce 2s infinite;
+}
+
+
 //md
 @media (min-width: @screen-md-min) and (max-width: @screen-md-max) {
 }
