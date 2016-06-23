@@ -236,6 +236,9 @@ header .navbar-header .navbar-brand {
   /* all */
   /* firefox 19+ */
   /* ie */
+  /* all focus */
+  /* firefox 19+ */
+  /* ie */
 }
 .wdl-contact .contact {
   padding-top: 210px;
@@ -259,7 +262,7 @@ header .navbar-header .navbar-brand {
   border-radius: 8px;
   height: 45px;
   padding-left: 20px;
-  background-color: black;
+  background-color: #1c1912;
   border-color: #1c1912;
   font-size: 16px;
   font-weight: 200;
@@ -268,19 +271,31 @@ header .navbar-header .navbar-brand {
 .wdl-contact input:focus,
 .wdl-contact textarea:focus {
   box-shadow: none;
-  border: 1px solid #b7ac8f;
+  border: 1px solid #b7ac8f !important;
 }
 .wdl-contact ::-webkit-input-placeholder {
-  color: #f00;
+  color: #494437;
 }
 .wdl-contact ::-moz-placeholder {
-  color: #f00;
+  color: #494437;
 }
 .wdl-contact :-ms-input-placeholder {
-  color: #f00;
+  color: #494437;
 }
 .wdl-contact input:-moz-placeholder {
-  color: #f00;
+  color: #494437;
+}
+.wdl-contact ::-webkit-input-placeholder:focus {
+  color: #b7ac8f;
+}
+.wdl-contact ::-moz-placeholder:focus {
+  color: #b7ac8f;
+}
+.wdl-contact :-ms-input-placeholder:focus {
+  color: #b7ac8f;
+}
+.wdl-contact input:-moz-placeholder:focus {
+  color: #b7ac8f;
 }
 .wdl-contact .btn-success {
   -webkit-border-radius: 6px;
@@ -612,6 +627,71 @@ footer .footer-sub div:last-child > p {
     transition: all 1s ease 0s !important;
     display: block !important;
   }
+}
+@-moz-keyframes bounce {
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
+    -moz-transform: translateX(0);
+    transform: translateX(0);
+  }
+  40% {
+    -moz-transform: translateX(-30px);
+    transform: translateX(-30px);
+  }
+  60% {
+    -moz-transform: translateX(-15px);
+    transform: translateX(-15px);
+  }
+}
+@-webkit-keyframes bounce {
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  40% {
+    -webkit-transform: translateX(-30px);
+    transform: translateX(-30px);
+  }
+  60% {
+    -webkit-transform: translateX(-15px);
+    transform: translateX(-15px);
+  }
+}
+@keyframes bounce {
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
+    -moz-transform: translateX(0);
+    -ms-transform: translateX(0);
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  40% {
+    -moz-transform: translateX(-30px);
+    -ms-transform: translateX(-30px);
+    -webkit-transform: translateX(-30px);
+    transform: translateX(-30px);
+  }
+  60% {
+    -moz-transform: translateX(-15px);
+    -ms-transform: translateX(-15px);
+    -webkit-transform: translateX(-15px);
+    transform: translateX(-15px);
+  }
+}
+.bounce {
+  -moz-animation: bounce 2s infinite;
+  -webkit-animation: bounce 2s infinite;
+  animation: bounce 2s infinite;
 }
 @media (min-width: 1200px) {
   .wdl-featured .featured-experiment {
