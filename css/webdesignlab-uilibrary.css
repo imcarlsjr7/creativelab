@@ -271,7 +271,7 @@ header .navbar-header .navbar-brand {
 .wdl-contact input:focus,
 .wdl-contact textarea:focus {
   box-shadow: none;
-  border: 1px solid #b7ac8f;
+  border: 1px solid #b7ac8f !important;
 }
 .wdl-contact ::-webkit-input-placeholder {
   color: #494437;
