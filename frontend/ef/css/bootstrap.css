@@ -8334,8 +8334,7 @@ header .ef-top-icon-group li:first-child:hover {
 .ef-main-content .ef-box-heading-3 h4 {
   text-align: center;
   font-family: "Calibri-ef";
-  font-style: italic;
-  font-size: 19px;
+  font-size: 3em;
   color: #5954a4;
   padding: 15px 0 0 0;
 }
