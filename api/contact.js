@@ -73,6 +73,9 @@ module.exports = async (req, res) => {
     }),
   });
 
-  if (!response.ok) return res.status(502).json({ error: "Failed to send" });
+  if (!response.ok) {
+    console.error("Resend error", response.status, await response.text());
+    return res.status(502).json({ error: "Failed to send" });
+  }
   return res.status(200).json({ ok: true });
 };
