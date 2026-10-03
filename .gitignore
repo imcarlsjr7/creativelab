@@ -8,3 +8,8 @@
 /portfolio/screenshots/logo/img_screenshot30.psd
 /portfolio/screenshots/mobiletab/img_screenshot12.psd
 /portfolio/screenshots/mobiletab/img_screenshot8.psd
+
+# Local env / Vercel
+.env
+.env.*
+.vercel
